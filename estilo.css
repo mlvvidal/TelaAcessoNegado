@@ -1,0 +1,51 @@
+*{
+	
+	margin:0;
+	padding:0;
+	
+}
+
+body{
+		
+	background-image:url("back.jpg");
+	
+}
+
+.container{
+	
+	margin:2% auto;
+	background-color:RGBA(0,119,179,0.5);
+	/*background-color:RGBA(255,255,255,0.3);*/
+	border-radius: 10px;
+	padding:10px;
+	
+}
+
+#img_negado{
+	
+	max-width:250px;
+	
+}
+
+.container h1{
+	
+	font-weight:bold;
+	color:red;
+	font-size:35pt;
+	-webkit-text-stroke-width: 2pt;
+	-webkit-text-stroke-color: #000;
+	
+}
+.container h3{
+	
+	color:#fff;
+	margin:15px;
+	font-size:20pt;
+	
+}
+
+#logo {
+	
+	margin:10px auto;
+	
+}
